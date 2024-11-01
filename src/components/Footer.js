@@ -8,7 +8,7 @@ export default function Footer() {
           <span className="text-muted">
             Made with ❤️ by Aryaan Gala.
             <a 
-              href="https://github.com/AryaanGala1406/TextUtils" 
+              href="https://github.com/AryaanGala1406/Text-Utils" 
               style={{ fontSize: '2em', color: 'black', marginLeft: '0.9rem' }}
               target="_blank"
               rel="noopener noreferrer"
